@@ -1,0 +1,21 @@
+                                +--------------------+
+                                |    CDN Edge        |
+                                |    Server #1       |
+                                |   (Caches Content) |
+                                +--------------------+
+                                           |
+                                           | (request content)
+                                           V
+                                 +-------------------+
+                                 |  CDN Edge Server  |
+                                 |     Server #2     |
+                                 |   (Caches Content)|
+                                 +-------------------+
+                                           |
+                                           | (sync content)
+                                           V
+                              +-----------------------+
+                              |   CDN Control Server  |
+                              |   (Management &       |
+                              |    Configuration)     |
+                              +-----------------------+
