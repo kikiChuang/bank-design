@@ -211,8 +211,8 @@
             <mxPoint x="2501.5" y="688" as="sourcePoint" />
             <mxPoint x="1439.9999999999995" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2502" y="628" />
-              <mxPoint x="1440" y="628" />
+              <mxPoint x="2502" y="590" />
+              <mxPoint x="1440" y="590" />
               <mxPoint x="1440" y="252" />
             </Array>
           </mxGeometry>
@@ -330,7 +330,7 @@
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-200" value="" style="strokeColor=#dddddd;shadow=1;strokeWidth=1;rounded=1;absoluteArcSize=1;arcSize=2;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-133">
           <mxGeometry x="660" y="1440" width="250" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="OYcSonADlkUZ9qEDh8Ml-201" value="Persistent&#xa;Disk" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.persistent_disk_snapshot;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-200">
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-201" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Persistent&lt;/font&gt;&lt;br&gt;Disk&lt;div&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;EBMW_BigHOMW&lt;/font&gt;&lt;/div&gt;" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#757575;strokeColor=none;shape=mxgraph.gcp2.persistent_disk_snapshot;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontSize=12;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-200">
           <mxGeometry y="0.5" width="32" height="32" relative="1" as="geometry">
             <mxPoint x="5" y="-16" as="offset" />
           </mxGeometry>
