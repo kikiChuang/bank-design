@@ -126,6 +126,12 @@
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-69" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;無障礙: 175.184.240.216&amp;nbsp; (external)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;10.23.96.89&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (internal)&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="638" width="320" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-72" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ＩＭＰ&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="634" y="816" width="326" height="434" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-77" value="os user ebmwapp&#xa;10.248.73.87 (SPLAP0327EBMW)&#xa;10.248.73.88 (SPLAP0330EBMW)&#xa;10.248.73.89 (SPLAP0328EBMW)&#xa;10.248.73.90 (SPLAP0326EBMW)&#xa;10.248.73.91 (SPLAP0325EBMW)&#xa;10.248.73.92 (SPLAP0329EBMW)&#xa;&#xa;&#xa;http://10.248.73.87/login&#xa;http://10.248.73.88/login&#xa;http://10.248.73.89/login&#xa;http://10.248.73.90/login&#xa;http://10.248.73.91/login&#xa;http://10.248.73.92/login&#xa;&#xa;&#xa;admin/admin&#xa;&#xa;&#xa;IMP:&#xa;IMP:" style="text;whiteSpace=wrap;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-72">
+          <mxGeometry x="16" y="30" width="294" height="390" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
