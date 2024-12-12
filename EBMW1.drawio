@@ -214,7 +214,7 @@
           <mxGeometry x="10" y="40" width="260" height="330" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-112" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MS&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-104">
-          <mxGeometry x="510" y="700" width="420" height="630" as="geometry" />
+          <mxGeometry x="500" y="450" width="420" height="630" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-113" value="os user ebmwapp&#xa;10.24.74.64 (sebmwms01)&#xa;10.24.74.65 (sebmwms02)&#xa;10.24.74.66 (sebmwms03)&#xa;10.24.74.67 (sebmwms04)&#xa;10.24.74.81 (sebmwms09)&#xa;10.24.74.82 (sebmwms10)&#xa;[admin console]&#xa;http://10.24.74.64:7001/console&#xa;http://10.24.74.64:7201/console&#xa;conf:8881 eureka:8761 oauth:9999 zuul:8900,&#xa;conf:8880 eureka:8760 oauth:9998 zuul:8901,&#xa;chl:7003,7005 biz:7103,7105&#xa;chl:7203,7205 biz:7303,7305&#xa;Redis:6379,6378,6377,6376,6375,6374&#xa;Redis:6479,6478,6477,6476,6475,6474&#xa;td-agent:24224&#xa;Global Cache&#xa;Redis:7398,7397,7396,7395&#xa;Redis:7499,7498,7497,7396&#xa;[Eureka console]&#xa;http://10.24.74.64:8761/&#xa;http://10.24.74.64:8760/&#xa;[Hystrix Dashboard]&#xa;http://10.24.74.64:9999/dashboard-hystrix/hystrix&#xa;http://10.24.74.64:9999/dashboard-turbine/turbine.stream&#xa;weblogic/prdebmw99&#xa;system/weblogic99&#xa;appuser/ctbc1234&#xa;sitescope/hpswDemo09&#xa;WLS安裝：/opt/oracle&#xa;WLS Domain:$HOME/EBMW&#xa;REDIS:$HOME/REDIS&#xa;td-agent:/etc/td-agent,/etc/init.d/td-agent" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-112">
           <mxGeometry x="10" y="40" width="400" height="580" as="geometry" />
@@ -235,10 +235,10 @@
           <mxGeometry y="81" width="320" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-126" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;OCP&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-104">
-          <mxGeometry x="510" y="39" width="420" height="630" as="geometry" />
+          <mxGeometry x="500" y="44" width="428" height="316" as="geometry" />
         </mxCell>
-        <mxCell id="OYcSonADlkUZ9qEDh8Ml-127" value="oauth-openshift.apps.scp01.test.ctbcbank.com" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-126">
-          <mxGeometry x="10" y="40" width="400" height="580" as="geometry" />
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-127" value="oauth-openshift.apps.scp01.test.ctbcbank.com&#xa;                                     |&#xa;                                     |&#xa;                                     |&#xa;                                     |  &#xa;                                     |&#xa;oauth-openshift.apps.scp01.test.ctbcbank.com&#xa;&#xa;" style="text;whiteSpace=wrap;fontSize=18;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-126">
+          <mxGeometry x="10" y="40" width="400" height="260" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OYcSonADlkUZ9qEDh8Ml-122" target="OYcSonADlkUZ9qEDh8Ml-112">
           <mxGeometry relative="1" as="geometry" />
