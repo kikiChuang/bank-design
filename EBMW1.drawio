@@ -134,28 +134,45 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-54" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;F5&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673.5" y="30" width="320" height="350" as="geometry" />
+          <mxGeometry x="741" y="50" width="320" height="350" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-65" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;短網址: 175.184.243.168&amp;nbsp; (external)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;10.23.96.95&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (internal)&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-54">
           <mxGeometry y="30" width="320" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-67" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;行銀:&amp;nbsp; &amp;nbsp; 175.184.243.188&amp;nbsp; (external)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;10.23.96.99&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;(internal)&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="672.5" y="131" width="320" height="66" as="geometry" />
+          <mxGeometry x="740" y="151" width="320" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-68" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;網銀:&amp;nbsp; &amp;nbsp; 175.184.243.207&amp;nbsp; (external)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 192.168.212.22&amp;nbsp; &amp;nbsp;(internal)&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673.5" y="199" width="320" height="66" as="geometry" />
+          <mxGeometry x="741" y="219" width="320" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-69" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;無障礙: 175.184.240.216&amp;nbsp; (external)&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;10.23.96.89&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; (internal)&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673.5" y="272" width="320" height="66" as="geometry" />
+          <mxGeometry x="741" y="292" width="320" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="1" source="OYcSonADlkUZ9qEDh8Ml-72" target="OYcSonADlkUZ9qEDh8Ml-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1170" y="649" />
+              <mxPoint x="1170" y="248" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OYcSonADlkUZ9qEDh8Ml-72" target="OYcSonADlkUZ9qEDh8Ml-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="760" />
+              <mxPoint x="1200" y="280" />
+              <mxPoint x="1792" y="280" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-72" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ＩＭＰ&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673.5" y="428" width="1010" height="1862" as="geometry" />
+          <mxGeometry x="720" y="428" width="376.5" height="442" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-77" value="os user ebmwapp&#xa;10.248.73.87 (SPLAP0327EBMW)&#xa;10.248.73.88 (SPLAP0330EBMW)&#xa;10.248.73.89 (SPLAP0328EBMW)&#xa;10.248.73.90 (SPLAP0326EBMW)&#xa;10.248.73.91 (SPLAP0325EBMW)&#xa;10.248.73.92 (SPLAP0329EBMW)&#xa;&#xa;http://10.248.73.87/login&#xa;http://10.248.73.88/login&#xa;http://10.248.73.89/login&#xa;http://10.248.73.90/login&#xa;http://10.248.73.91/login&#xa;http://10.248.73.92/login&#xa;&#xa;admin/admin&#xa;&#xa;&#xa;IMP:&#xa;IMP:" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-72">
           <mxGeometry x="16" y="30" width="294" height="390" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-78" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;AEM(CMS)&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673.5" y="915" width="960" height="360" as="geometry" />
+          <mxGeometry x="720" y="915" width="960" height="360" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-79" value="Web&#xa;ebmwapp&#xa;10.248.29.106 (SPLAP0034EBMW)&#xa;10.248.29.113 (SPLAP0035EBMW)&#xa;&#xa;Apache:8082&#xa;Apache:/usr/local/apache2.4" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-78">
           <mxGeometry x="16" y="30" width="284" height="260" as="geometry" />
@@ -167,7 +184,7 @@
           <mxGeometry x="670" y="50" width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-80" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Tagging&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673.5" y="1320" width="326" height="360" as="geometry" />
+          <mxGeometry x="720" y="1320" width="326" height="360" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-82" value="os user ebmwapp&#xa;10.248.73.76 (SPLAP0263EBMW)&#xa;10.248.73.77 (SPLAP0262EBMW)&#xa;10.248.73.78 (SPLAP0264EBMW)&#xa;&#xa;ebmwapp&#xa;&#xa;Apache:8080&#xa;Apache: /usr/local/apache2&#xa;Insight Sensor:&#xa;/usr/local/visual_sciences,&#xa;/usr/local/bin/txlogd,&#xa;/etc/txlogd.conf&#xa;&#xa;Insight Data: $HOME/insight/queue" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-80">
           <mxGeometry x="16" y="30" width="294" height="340" as="geometry" />
@@ -176,7 +193,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-87" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;後台/PUSH&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="673.5" y="1730" width="326" height="360" as="geometry" />
+          <mxGeometry x="720" y="1730" width="326" height="360" as="geometry" />
         </mxCell>
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-88" value="os user ebmwapp&#xa;10.248.73.76 (SPLAP0263EBMW)&#xa;10.248.73.77 (SPLAP0262EBMW)&#xa;10.248.73.78 (SPLAP0264EBMW)&#xa;&#xa;ebmwapp&#xa;&#xa;Apache:8080&#xa;Apache: /usr/local/apache2&#xa;Insight Sensor:&#xa;/usr/local/visual_sciences,&#xa;/usr/local/bin/txlogd,&#xa;/etc/txlogd.conf&#xa;&#xa;Insight Data: $HOME/insight/queue" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-87">
           <mxGeometry x="16" y="30" width="294" height="340" as="geometry" />
@@ -187,8 +204,50 @@
         <mxCell id="OYcSonADlkUZ9qEDh8Ml-99" value="＋全國繳費網&#xa;&#xa;＋電信公司&#xa;&#xa;＋保險公司&#xa;&#xa;＋證券商&#xa;&#xa;＋聯合徵信&#xa;&#xa;＋財金資訊&#xa;&#xa;＋APNS&#xa;&#xa;＋FCM&#xa;&#xa;＋MyData&#xa;&#xa;＋TWCA" style="text;whiteSpace=wrap;fontSize=16;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-98">
           <mxGeometry x="10" y="40" width="294" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="OYcSonADlkUZ9qEDh8Ml-20" value="&lt;font color=&quot;#00cc00&quot; style=&quot;font-size: 24px;&quot;&gt;DMZ&lt;/font&gt;" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=16;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="14" width="1103.5" height="2296" as="geometry" />
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-104" value="&lt;font color=&quot;#3399ff&quot; style=&quot;font-size: 24px;&quot;&gt;AP(Production)&lt;/font&gt;" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc2;strokeColor=#8C4FFF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="20" width="1170" height="2300" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-106" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MFP&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-104">
+          <mxGeometry x="46" y="500" width="270" height="394" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-107" value="os user ebmwapp&#xa;10.24.67.28 (sebmwmf01)&#xa;10.24.67.29 (sebmwmf02)&#xa;10.24.67.30 (sebmwmf03)&#xa;10.24.67.31 (sebmwmf04)&#xa;&#xa;&#xa;http://10.24.67.28/mfpconsole&#xa;http://10.24.67.29/mfpconsole&#xa;http://10.24.67.30/mfpconsole&#xa;http://10.24.67.31/mfpconsole&#xa;&#xa;&#xa;admin/prdebmw99&#xa;&#xa;&#xa;MFP:$HOME/MobileFirst&#xa;MFP:$HOME/WebSphere" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-106">
+          <mxGeometry x="10" y="40" width="260" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-112" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;MS&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-104">
+          <mxGeometry x="510" y="700" width="420" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-113" value="os user ebmwapp&#xa;10.24.74.64 (sebmwms01)&#xa;10.24.74.65 (sebmwms02)&#xa;10.24.74.66 (sebmwms03)&#xa;10.24.74.67 (sebmwms04)&#xa;10.24.74.81 (sebmwms09)&#xa;10.24.74.82 (sebmwms10)&#xa;[admin console]&#xa;http://10.24.74.64:7001/console&#xa;http://10.24.74.64:7201/console&#xa;conf:8881 eureka:8761 oauth:9999 zuul:8900,&#xa;conf:8880 eureka:8760 oauth:9998 zuul:8901,&#xa;chl:7003,7005 biz:7103,7105&#xa;chl:7203,7205 biz:7303,7305&#xa;Redis:6379,6378,6377,6376,6375,6374&#xa;Redis:6479,6478,6477,6476,6475,6474&#xa;td-agent:24224&#xa;Global Cache&#xa;Redis:7398,7397,7396,7395&#xa;Redis:7499,7498,7497,7396&#xa;[Eureka console]&#xa;http://10.24.74.64:8761/&#xa;http://10.24.74.64:8760/&#xa;[Hystrix Dashboard]&#xa;http://10.24.74.64:9999/dashboard-hystrix/hystrix&#xa;http://10.24.74.64:9999/dashboard-turbine/turbine.stream&#xa;weblogic/prdebmw99&#xa;system/weblogic99&#xa;appuser/ctbc1234&#xa;sitescope/hpswDemo09&#xa;WLS安裝：/opt/oracle&#xa;WLS Domain:$HOME/EBMW&#xa;REDIS:$HOME/REDIS&#xa;td-agent:/etc/td-agent,/etc/init.d/td-agent" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-112">
+          <mxGeometry x="10" y="40" width="400" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="OYcSonADlkUZ9qEDh8Ml-104" source="OYcSonADlkUZ9qEDh8Ml-107" target="OYcSonADlkUZ9qEDh8Ml-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="OYcSonADlkUZ9qEDh8Ml-104" source="OYcSonADlkUZ9qEDh8Ml-116" target="OYcSonADlkUZ9qEDh8Ml-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-116" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;IAP F5&lt;/font&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-104">
+          <mxGeometry x="21" y="50" width="320" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-117" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;zuul pool( 80 ESB ):&amp;nbsp; &lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;10.24.109.139&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-116">
+          <mxGeometry y="30" width="320" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-121" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;eCoupon&amp;nbsp; pool( 82):&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;10.24.109.139&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-116">
+          <mxGeometry y="81" width="320" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-126" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;OCP&lt;/span&gt;" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-104">
+          <mxGeometry x="510" y="39" width="420" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-127" value="oauth-openshift.apps.scp01.test.ctbcbank.com" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="OYcSonADlkUZ9qEDh8Ml-126">
+          <mxGeometry x="10" y="40" width="400" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OYcSonADlkUZ9qEDh8Ml-122" target="OYcSonADlkUZ9qEDh8Ml-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="OYcSonADlkUZ9qEDh8Ml-122" target="OYcSonADlkUZ9qEDh8Ml-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OYcSonADlkUZ9qEDh8Ml-122" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;MFP&amp;nbsp; pool( 82):&amp;nbsp;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;10.24.109.139&amp;nbsp;&amp;nbsp;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1792" y="215" width="320" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
